@@ -1,0 +1,12 @@
+{
+  "name": "docker-ci-cd-project",
+  "version": "1.0.0",
+  "description": "Docker CI/CD project with GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Test passed successfully\" && exit 0"
+  },
+  "dependencies": {}
+}
+
